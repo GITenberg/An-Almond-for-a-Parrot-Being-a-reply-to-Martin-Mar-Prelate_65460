@@ -1,0 +1,53 @@
+_repo: An-Almond-for-a-Parrot-Being-a-reply-to-Martin-Mar-Prelate_65460
+_version: 0.0.1
+contributor:
+  dubious_authors:
+  - agent_name: Lyly, John
+    aliases:
+    - Lylie, Iohn
+    - Lilly, John
+    - Lilly, Iohn
+    - Lylie, John
+    - Lyllie, John
+    - Lily, John
+    - Lilie, Iohn
+    deathdate: 1606
+    gutenberg_agent_id: '53360'
+    url: http://www.gutenberg.org/2009/agents/53360
+    wikipedia: https://en.wikipedia.org/wiki/John_Lyly
+  - agent_name: Nash, Thomas
+    aliases:
+    - Marphoreus
+    - Curry-Knave, Cutbert
+    - Nash, T. (Thomas)
+    - Nashe, Thomas
+    - Curriknave, Cutbert
+    birthdate: 1567
+    deathdate: 1601
+    gutenberg_agent_id: '7595'
+    url: http://www.gutenberg.org/2009/agents/7595
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Nashe
+creator:
+  editor:
+    agent_name: Petheram, John
+    birthdate: 1809
+    deathdate: 1858
+    gutenberg_agent_id: '53362'
+    url: http://www.gutenberg.org/2009/agents/53362
+description: 'The Marprelate controversy at Wikipedia: https://en.wikipedia.org/wiki/Marprelate_Controversy'
+gutenberg_issued: '2021-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65460'
+  lccn: '49035841'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Puritan discipline tracts.
+subjects:
+- !lcc 'BR'
+- !lcsh 'Marprelate controversy'
+- GITenberg
+title: 'An Almond for a Parrot: Being a reply to Martin Mar-Prelate.'
+url: http://www.gutenberg.org/ebooks/65460
